@@ -44,8 +44,18 @@ An AI tool that connects to a Shopify store and improves its SEO.
 
 `Python` `FastAPI` `Shopify Admin GraphQL API` `Google Gemini` `Vercel`
 
+### [Chat with your PDF](https://github.com/imumaimabukhari-123/chat-with-pdf) · [Live demo](https://chat-with-pdf-mauve.vercel.app)
+A RAG chatbot: upload a PDF and ask it questions.
+- Answers **only from the document**, with **page citations** you can click to see the exact passage
+- Says "I couldn't find that" instead of guessing when the answer isn't there
+- **Hybrid search**: meaning-based embeddings plus BM25 keyword search, merged with Reciprocal Rank Fusion
+- Remembers the conversation for follow-up questions
+- Private: the PDF is read in the browser and never stored on the server
+
+`Python` `FastAPI` `RAG` `Gemini Embeddings` `pdf.js` `Vercel`
+
 ### More projects coming soon
-RAG chatbot for documents · AI automation workflow · Machine learning model · Chrome extension with AI · MERN web app
+Shopify store AI chatbot · AI automation workflow · Machine learning model · Chrome extension with AI · MERN web app
 
 ---
 

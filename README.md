@@ -64,8 +64,17 @@ A chat bubble for Shopify stores that answers shoppers from the store's real cat
 
 `Python` `FastAPI` `Shopify` `RAG` `Google Gemini` `JavaScript` `Vercel`
 
+### [Shopify Store Inspector](https://github.com/imumaimabukhari-123/shopify-store-inspector) · [Live site](https://shopify-store-inspector.vercel.app)
+A Chrome extension (Manifest V3) that inspects any online store in one click.
+- Detects **Shopify**, the **theme** and **40+ apps** (Klaviyo, Judge.me, Afterpay, Gorgias…)
+- Catalog stats: product and collection counts, price range, items on sale and sold out
+- **SEO check** of the page with a score out of 100, and **AI tips** on what to fix first
+- Also works as a website, with nothing to install; uses only the `activeTab` permission
+
+`Chrome Extension` `JavaScript` `Python` `FastAPI` `Google Gemini` `Vercel`
+
 ### More projects coming soon
-AI automation workflow · Machine learning model · Chrome extension with AI · MERN web app
+AI reply helper (Chrome extension) · MERN web app · Machine learning model · AI automation workflow
 
 ---
 

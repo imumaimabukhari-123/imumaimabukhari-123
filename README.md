@@ -1,4 +1,4 @@
-# Hi, I'm Umaima 👋
+# Hi, I'm Syeda Umaima 👋
 
 **Software engineer** (B.Sc. Software Engineering) building **Shopify stores, AI tools, RAG systems, AI automation, custom-trained machine learning models, web apps and Chrome extensions**.
 

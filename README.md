@@ -1,11 +1,11 @@
 # Hi, I'm Umaima 👋
 
-**Software engineer** (final year, B.Sc. Software Engineering) building **Shopify stores, AI tools, AI automation, machine learning models, web apps and Chrome extensions**.
+**Software engineer** (final year, B.Sc. Software Engineering) building **Shopify stores, AI tools, AI automation, custom-trained machine learning models, web apps and Chrome extensions**.
 
 - 🛍️ Shopify store setup, customization and Shopify apps
 - 🤖 AI integrations and chatbots (Gemini, OpenAI, Claude)
 - ⚙️ AI automation: workflows that connect your apps and handle routine tasks
-- 🧠 Machine learning: prediction and classification models (Python, TensorFlow, scikit-learn)
+- 🧠 Machine learning: I build and train my own ML models, from cleaning the data to training, testing and deploying them (prediction, classification, recommendations) with Python, TensorFlow and scikit-learn
 - 🌐 Web app development: full-stack MERN apps (MongoDB, Express, React, Node.js)
 - 🧩 Chrome extensions (Manifest V3)
 - 📍 Pakistan · open to freelance work

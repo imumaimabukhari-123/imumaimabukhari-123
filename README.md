@@ -1,10 +1,12 @@
 # Hi, I'm Umaima 👋
 
-**Software engineer** (final year, B.Sc. Software Engineering) building **Shopify stores, AI tools, automations, web apps and Chrome extensions**.
+**Software engineer** (final year, B.Sc. Software Engineering) building **Shopify stores, AI tools, AI automation, machine learning models, web apps and Chrome extensions**.
 
 - 🛍️ Shopify store setup, customization and Shopify apps
-- 🤖 AI integrations, chatbots and automations (Gemini, OpenAI, Claude)
-- 🌐 MERN stack web apps
+- 🤖 AI integrations and chatbots (Gemini, OpenAI, Claude)
+- ⚙️ AI automation: workflows that connect your apps and handle routine tasks
+- 🧠 Machine learning: prediction and classification models (Python, TensorFlow, scikit-learn)
+- 🌐 Web app development: full-stack MERN apps (MongoDB, Express, React, Node.js)
 - 🧩 Chrome extensions (Manifest V3)
 - 📍 Pakistan · open to freelance work
 
@@ -21,6 +23,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat&logo=googlechrome&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -40,7 +44,7 @@ An AI tool that connects to a Shopify store and improves its SEO.
 `Python` `FastAPI` `Shopify Admin GraphQL API` `Google Gemini` `Vercel`
 
 ### More projects coming soon
-AI chatbot for documents · Chrome extension with AI · MERN web app
+AI chatbot for documents · AI automation workflow · Machine learning model · Chrome extension with AI · MERN web app
 
 ---
 

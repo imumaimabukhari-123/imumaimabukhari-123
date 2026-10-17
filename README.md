@@ -54,8 +54,18 @@ A RAG chatbot: upload a PDF and ask it questions.
 
 `Python` `FastAPI` `RAG` `Gemini Embeddings` `pdf.js` `Vercel`
 
+### [Shopify AI Shopping Assistant](https://github.com/imumaimabukhari-123/shopify-ai-chatbot) · [Live demo](https://shopify-ai-chatbot-wine.vercel.app)
+A chat bubble for Shopify stores that answers shoppers from the store's real catalog.
+- Recommends products as **cards with image, price and link**, and knows sizes, colours and stock
+- Answers **shipping and returns** questions from the store's own policies
+- Never makes things up: if the store doesn't sell it, it says so and suggests the closest product
+- **Try it on any Shopify store**: type a store's address and chat with its real products
+- Installs with **one line of code**; the widget runs in a Shadow DOM so it never breaks the theme
+
+`Python` `FastAPI` `Shopify` `RAG` `Google Gemini` `JavaScript` `Vercel`
+
 ### More projects coming soon
-Shopify store AI chatbot · AI automation workflow · Machine learning model · Chrome extension with AI · MERN web app
+AI automation workflow · Machine learning model · Chrome extension with AI · MERN web app
 
 ---
 

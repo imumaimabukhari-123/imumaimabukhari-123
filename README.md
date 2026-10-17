@@ -1,9 +1,10 @@
 # Hi, I'm Umaima 👋
 
-**Software engineer** (final year, B.Sc. Software Engineering) building **Shopify stores, AI tools, AI automation, custom-trained machine learning models, web apps and Chrome extensions**.
+**Software engineer** (B.Sc. Software Engineering) building **Shopify stores, AI tools, RAG systems, AI automation, custom-trained machine learning models, web apps and Chrome extensions**.
 
 - 🛍️ Shopify store setup, customization and Shopify apps
 - 🤖 AI integrations and chatbots (Gemini, OpenAI, Claude)
+- 📚 RAG systems: AI that answers questions from your own documents and data, using embeddings and vector search
 - ⚙️ AI automation: workflows that connect your apps and handle routine tasks
 - 🧠 Machine learning: I build and train my own ML models, from cleaning the data to training, testing and deploying them (prediction, classification, recommendations) with Python, TensorFlow and scikit-learn
 - 🌐 Web app development: full-stack MERN apps (MongoDB, Express, React, Node.js)
@@ -44,7 +45,7 @@ An AI tool that connects to a Shopify store and improves its SEO.
 `Python` `FastAPI` `Shopify Admin GraphQL API` `Google Gemini` `Vercel`
 
 ### More projects coming soon
-AI chatbot for documents · AI automation workflow · Machine learning model · Chrome extension with AI · MERN web app
+RAG chatbot for documents · AI automation workflow · Machine learning model · Chrome extension with AI · MERN web app
 
 ---
 

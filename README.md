@@ -82,8 +82,17 @@ A Chrome extension that writes replies: select a message on any website and get 
 
 `Chrome Extension` `JavaScript` `Python` `FastAPI` `Google Gemini` `Vercel`
 
+### [InvoiceFlow](https://github.com/imumaimabukhari-123/invoiceflow) · [Live demo](https://invoiceflow-omega-liard.vercel.app)
+A full-stack **MERN** app for freelancers and small businesses to invoice clients and track payments.
+- Sign up / log in with **JWT** and bcrypt, or open a **one-click demo** account (auto-deleted after 24 h)
+- Invoices with line items, tax and discounts, **PDF download**, and automatic **overdue** detection
+- **Dashboard** with paid / outstanding / overdue totals and a 6-month income chart
+- Client management, search and filters, multi-currency settings; every query scoped to the logged-in user
+
+`MongoDB` `Express` `React` `Node.js` `JWT` `MongoDB Atlas` `Vercel`
+
 ### More projects coming soon
-MERN web app · Machine learning model · AI automation workflow
+Machine learning model · AI automation workflow
 
 ---
 

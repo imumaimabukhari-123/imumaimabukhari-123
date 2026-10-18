@@ -73,8 +73,17 @@ A Chrome extension (Manifest V3) that inspects any online store in one click.
 
 `Chrome Extension` `JavaScript` `Python` `FastAPI` `Google Gemini` `Vercel`
 
+### [AI Reply Helper](https://github.com/imumaimabukhari-123/ai-reply-helper) · [Live site](https://ai-reply-helper-psi.vercel.app)
+A Chrome extension that writes replies: select a message on any website and get 3 ready-to-send replies.
+- 5 tones and 6 goals (accept, politely decline, ask for details…), with one-click **Copy**
+- Works from the toolbar icon or the **right-click menu**
+- Uses only facts you give it, and replies in the message's language
+- Also works as a website, with nothing to install
+
+`Chrome Extension` `JavaScript` `Python` `FastAPI` `Google Gemini` `Vercel`
+
 ### More projects coming soon
-AI reply helper (Chrome extension) · MERN web app · Machine learning model · AI automation workflow
+MERN web app · Machine learning model · AI automation workflow
 
 ---
 

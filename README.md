@@ -28,6 +28,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
@@ -91,8 +92,17 @@ A full-stack **MERN** app for freelancers and small businesses to invoice client
 
 `MongoDB` `Express` `React` `Node.js` `JWT` `MongoDB Atlas` `Vercel`
 
+### [AI Marketing Automation with n8n](https://github.com/imumaimabukhari-123/n8n-ai-marketing-automation) · [Live site](https://n8n-ai-marketing-automation.vercel.app)
+Two **n8n** workflows that run a small business's leads on autopilot.
+- **AI lead follow-up:** every form enquiry is scored 0 to 100 by Gemini (hot / warm / cold) and gets a **personal reply email within seconds**
+- Leads are saved to a **CRM table**, and **hot leads trigger an instant alert** to the owner
+- **Daily AI marketing report** at 9 AM: lead numbers, 3 AI insights and 3 actions for the week, as an HTML email
+- Structured AI output with a JSON response schema, retries, and credentials kept out of the workflow files
+
+`n8n` `Google Gemini` `Brevo API` `JavaScript` `Python` `FastAPI` `Vercel`
+
 ### More projects coming soon
-Machine learning model · AI automation workflow
+Machine learning model
 
 ---
 
